@@ -54,5 +54,9 @@
   },
   "peerDependencies": {
     "@nebula.js/stardust": "^1.x"
+  },
+  "dependencies": {
+    "caniuse-lite": "^1.0.30001431",
+    "recharts": "^2.1.16"
   }
 }
