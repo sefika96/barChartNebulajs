@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Nebula React Starter
 
 ## Usage
@@ -7,10 +7,11 @@
 
 npm i
 
-npm run start to start the nebula ui
-npm run build to build extension
+npm run start -  to start the nebula ui
+npm run build - to build extension
+
+nebula sense - run and you can use this ext in Qlik sense
 
 ```
 =======
 # barChartNebulajs
->>>>>>> 7df9f05d42540829362aabd920bcb4b1f84c8181
